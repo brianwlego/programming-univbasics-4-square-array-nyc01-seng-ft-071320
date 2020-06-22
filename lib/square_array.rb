@@ -6,5 +6,6 @@ def square_array(array)
     square_number = (array[index]*array[index])
     new_array.push(square_number)
   end 
+  
 end
 

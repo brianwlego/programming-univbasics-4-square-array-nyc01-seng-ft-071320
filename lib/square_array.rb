@@ -3,7 +3,7 @@ new_array = []
 
 def square_array(array)
   while array.length do 
-    array[array.index]*array[array.index]
+    
   end 
 end 
 

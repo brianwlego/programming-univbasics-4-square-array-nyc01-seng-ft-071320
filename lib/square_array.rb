@@ -5,6 +5,7 @@ def square_array(array)
     square_number = array[index]*array[index]
     new_array.push(square_number)
     puts new_array
+  end 
 end
 
 square_array(array)
